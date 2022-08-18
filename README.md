@@ -8,6 +8,8 @@ I was bored, so I created this. You can customize the pop-up's and troll your fr
 # Example:
 
 a = msgbox(" Hello World " ,16, "test")
+loop* # (Only if you want it to be endless!)
+
 - If you want to add more lines change "a" to any other letter or number.
 - If you want to change the text, just change "Hello World" to any other text.
 - If you want to change the title, just change "test" to any other word/sentence
